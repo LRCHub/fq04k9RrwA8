@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Set Sail",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-25T09:50:45.093147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Set Sail And Conquer",
+      "artist": "Alestorm",
+      "has_synced": true,
+      "path": "select/01_Set_Sail_And_Conquer_Alestorm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Set Sail",
+      "artist": "Scary Kids Scaring Kids",
+      "has_synced": false,
+      "path": "select/02_Set_Sail_Scary_Kids_Scaring_Kids.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Set Sail to Plunder",
+      "artist": "Thyrfing",
+      "has_synced": true,
+      "path": "select/03_Set_Sail_to_Plunder_Thyrfing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Set Sail and Conquer",
+      "artist": "Alestorm",
+      "has_synced": false,
+      "path": "select/04_Set_Sail_and_Conquer_Alestorm.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Set Sail, Armada",
+      "artist": "Dream On, Dreamer",
+      "has_synced": true,
+      "path": "select/05_Set_Sail,_Armada_Dream_On,_Dreamer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Set Sail",
+      "artist": "Besides Daniel",
+      "has_synced": true,
+      "path": "select/06_Set_Sail_Besides_Daniel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Set Sail",
+      "artist": "Casey Barnes",
+      "has_synced": true,
+      "path": "select/07_Set_Sail_Casey_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Set Sail Part I (Featuring Lamar Williams Jr.)",
+      "artist": "North Mississippi Allstars feat. Lamar Williams Jr.",
+      "has_synced": true,
+      "path": "select/08_Set_Sail_Part_I_(Featuring_Lamar_Williams_Jr.)_North_Mississippi_Allstars_feat._Lamar_Williams_Jr..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Set Sail Part I (Featuring Lamar Williams Jr.)",
+      "artist": "North Mississippi Allstars",
+      "has_synced": true,
+      "path": "select/09_Set_Sail_Part_I_(Featuring_Lamar_Williams_Jr.)_North_Mississippi_Allstars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Set Sail Part II (Featuring Lamar Williams Jr.)",
+      "artist": "North Mississippi Allstars feat. Lamar Williams Jr.",
+      "has_synced": true,
+      "path": "select/10_Set_Sail_Part_II_(Featuring_Lamar_Williams_Jr.)_North_Mississippi_Allstars_feat._Lamar_Williams_Jr..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Set Sail Part II (Featuring Lamar Williams Jr.)",
+      "artist": "North Mississippi Allstars",
+      "has_synced": true,
+      "path": "select/11_Set_Sail_Part_II_(Featuring_Lamar_Williams_Jr.)_North_Mississippi_Allstars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Set Sail",
+      "artist": "Ray Boltz",
+      "has_synced": false,
+      "path": "select/12_Set_Sail_Ray_Boltz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Set Sail",
+      "artist": "Billy Cobb",
+      "has_synced": false,
+      "path": "select/13_Set_Sail_Billy_Cobb.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Set Sail",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Set_Sail_BE_FIRST.txt"
+    }
+  ]
+}
